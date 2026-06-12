@@ -2,7 +2,7 @@
 
 A fast, responsive web application that allows users to discover movies and save them to a personal wishlist. 
 
-**Live Demo:** [movie-app-bice-eta.vercel.app]
+**Live Demo:** [(https://movie-app-bice-eta.vercel.app/)]
 
 ---
 
